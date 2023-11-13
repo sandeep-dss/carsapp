@@ -55,7 +55,7 @@ const CarDetails = ({ isOpen, closeModal, car }: CarDetailsProps) => (
 
                 <div className='flex-1 flex flex-col gap-3'>
                   <div className='relative w-full h-40 bg-pattern bg-cover bg-center rounded-lg'>
-                    <Image src="/hero.png" alt='car model' fill priority className='object-contain' />
+                    <Image src="/template.png" alt='car model' fill priority className='object-contain' />
                   </div>
 
                   <div className='flex gap-3'>
