@@ -1,4 +1,6 @@
 Car details and renter app made with nextjs featuring filter options and dynamic search with suggestions.
+## Try out the project at https://cars-app-jade.vercel.app
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
