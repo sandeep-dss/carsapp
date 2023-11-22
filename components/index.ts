@@ -7,6 +7,7 @@ import ShowMore from "./ShowMore";
 import SearchBar from "./SearchBar";
 import SearchManufacturer from "./SearchManufacturer";
 import Hero from "./Hero";
+import Popup from "./Popup";
 
 export {
   Hero,
@@ -17,5 +18,6 @@ export {
   NavBar,
   ShowMore,
   SearchBar,
+  Popup,
   SearchManufacturer,
 };

@@ -1,6 +1,7 @@
 "use client";
 import Image from 'next/image';
 import { CustomButton } from '.';
+import {Popup} from '.';
 
 const Hero = () => {
   const handleScroll = () => {
@@ -25,6 +26,7 @@ const Hero = () => {
         handleClick={handleScroll}
         />
       </div>
+      <Popup/>
       <div className='hero__image-container'>
         <div className='hero__image'>
           <Image src='/herocar.png' alt='hero'
